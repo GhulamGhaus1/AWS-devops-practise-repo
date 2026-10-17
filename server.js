@@ -16,7 +16,7 @@ const html = `<!DOCTYPE html>
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
     :root {
-      --bg: #060612;
+      --bg: red;
       --surface: rgba(255,255,255,0.04);
       --border: rgba(255,255,255,0.08);
       --accent1: #7c3aed;
